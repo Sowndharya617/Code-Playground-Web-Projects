@@ -1,9 +1,6 @@
 # Countdown Timer ⏳
 
-
 A simple yet elegant countdown timer that shows the time remaining until a specific event—in this case, the New Year 2026. This project serves as a practical example for developers to explore HTML, CSS, and JavaScript integration.
-
-
 
 ## 📜 Description
 
@@ -13,7 +10,6 @@ The **Countdown Timer** displays the remaining days, hours, minutes, and seconds
 - **JavaScript** for dynamic functionality, updating the countdown in real-time.
 
 This project is an excellent way to understand how to combine these three technologies to create interactive web applications.
-
 
 ## 🛠 Techniques and Features
 
@@ -34,8 +30,6 @@ This project is an excellent way to understand how to combine these three techno
    
 3. **CSS3 for Styling**
    - Styles include a semi-transparent background, rounded corners, and a blur effect for a clean and minimalist design.
-
-
 
 ## 🔍 Known Limitations
 
@@ -62,6 +56,3 @@ You can view the live countdown by opening the following file in your browser:
 
 [file:///C:/Users/sakth/OneDrive/Desktop/count-timer/index.html](file:///C:/Users/sakth/OneDrive/Desktop/count-timer/index.html)
 
-## 📎 Contributions
-
-Feel free to contribute by forking the repo, submitting issues, or creating pull requests. Contributions are welcome to enhance the project with new features, improvements, or bug fixes.
