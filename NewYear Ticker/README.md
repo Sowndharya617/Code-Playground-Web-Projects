@@ -54,15 +54,13 @@ Feel free to contribute by forking the repo, submitting issues, or creating pull
 
 Here is a screenshot of the countdown timer in action:
 
-[Countdown Timer Screenshot](NewYear Ticker/CountTimerSS.png)
+![Countdown Timer Screenshot](assets/Screenshot_2025-01-05_171239.png)
 
 ## 📂 Output Link
 
 You can view the live countdown by opening the following file in your browser:
 
 [file:///C:/Users/sakth/OneDrive/Desktop/count-timer/index.html](file:///C:/Users/sakth/OneDrive/Desktop/count-timer/index.html)
-
-
 
 ## 📎 Contributions
 
