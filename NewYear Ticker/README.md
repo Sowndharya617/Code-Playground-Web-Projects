@@ -40,10 +40,10 @@ This project is an excellent way to understand how to combine these three techno
 ## 📂 Project Structure
 
 Countdown-Timer/ ├── index.html # HTML structure for the countdown timer 
-├── styles.css # CSS for styling the countdown timer 
-├── source.js # JavaScript for functionality
-├── image.png # Background image (replace with your own) 
-└── README.md # Project documentation
+                 ├── styles.css # CSS for styling the countdown timer 
+                 ├── source.js # JavaScript for functionality
+                 ├── image.png # Background image (replace with your own) 
+                 └── README.md # Project documentation
 
 ---
 
