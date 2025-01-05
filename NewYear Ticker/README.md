@@ -1,5 +1,6 @@
 # Countdown Timer ⏳
 
+
 A simple yet elegant countdown timer that shows the time remaining until a specific event—in this case, the New Year 2026. This project serves as a practical example for developers to explore HTML, CSS, and JavaScript integration.
 
 
