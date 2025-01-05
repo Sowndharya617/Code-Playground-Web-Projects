@@ -2,7 +2,7 @@
 
 A simple yet elegant countdown timer that shows the time remaining until a specific event—in this case, the New Year 2026. This project serves as a practical example for developers to explore HTML, CSS, and JavaScript integration.
 
----
+
 
 ## 📜 Description
 
@@ -13,7 +13,7 @@ The **Countdown Timer** displays the remaining days, hours, minutes, and seconds
 
 This project is an excellent way to understand how to combine these three technologies to create interactive web applications.
 
----
+
 
 ## 🛠 Techniques and Features
 
@@ -35,7 +35,6 @@ This project is an excellent way to understand how to combine these three techno
 3. **CSS3 for Styling**
    - Styles include a semi-transparent background, rounded corners, and a blur effect for a clean and minimalist design.
 
----
 
 
 ## 🔍 Known Limitations
