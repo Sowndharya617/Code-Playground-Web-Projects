@@ -53,7 +53,7 @@ Feel free to contribute by forking the repo, submitting issues, or creating pull
 
 Here is a screenshot of the countdown timer in action:
 
-[Countdown Timer Screenshot](C:\Users\sakth\OneDrive\Desktop\count-timer\Screenshot 2025-01-05 171239.png)
+[Countdown Timer Screenshot](NewYear Ticker/CountTimerSS.png)
 
 ## 📂 Output Link
 
