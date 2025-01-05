@@ -14,7 +14,6 @@ The **Countdown Timer** displays the remaining days, hours, minutes, and seconds
 This project is an excellent way to understand how to combine these three technologies to create interactive web applications.
 
 
-
 ## 🛠 Techniques and Features
 
 ### **Core Features:**
@@ -46,7 +45,23 @@ This project is an excellent way to understand how to combine these three techno
 3. **No Error Handling:**
    - There are minimal error-handling features in the current version.
 
----
+## 📎 Contributions
+
+Feel free to contribute by forking the repo, submitting issues, or creating pull requests. Contributions are welcome to enhance the project with new features, improvements, or bug fixes.
+
+## 📸 Screenshot
+
+Here is a screenshot of the countdown timer in action:
+
+![Countdown Timer Screenshot](C:\Users\sakth\OneDrive\Desktop\count-timer\Screenshot 2025-01-05 171239.png)
+
+## 📂 Output Link
+
+You can view the live countdown by opening the following file in your browser:
+
+[file:///C:/Users/sakth/OneDrive/Desktop/count-timer/index.html](file:///C:/Users/sakth/OneDrive/Desktop/count-timer/index.html)
+
+
 
 ## 📎 Contributions
 
