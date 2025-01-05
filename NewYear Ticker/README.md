@@ -54,7 +54,7 @@ Feel free to contribute by forking the repo, submitting issues, or creating pull
 
 Here is a screenshot of the countdown timer in action:
 
-![Countdown Timer Screenshot](assets/Screenshot_2025-01-05_171239.png)
+![CountTimerSS](https://github.com/user-attachments/assets/a05437b8-0c7c-4655-b2a2-519e8f3528e5)
 
 ## 📂 Output Link
 
